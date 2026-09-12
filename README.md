@@ -310,4 +310,3 @@ airline-route-profitability-analysis/
 - **sql/** — MySQL queries used for the business analysis
 - **README.md** — Complete project documentation, findings, and recommendations
 
-The original and cleaned datasets are not currently redistributed in this repository pending confirmation of the source dataset's licensing and redistribution terms.
