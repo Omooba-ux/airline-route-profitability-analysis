@@ -282,4 +282,25 @@ This project was developed as a portfolio analysis using the information availab
 
 - Business recommendations should therefore be treated as areas for further investigation rather than automatic operational decisions.
 
+## Repository Structure
+
+```text
+airline-route-profitability-analysis/
+│
+├── dashboard/
+│   ├── README.md
+│   ├── Overview.png
+│   ├── route_profitability.png
+│   └── Operations_costs.png
+│
+├── data/
+│   └── README.md
+│
+├── sql/
+│   ├── README.md
+│   └── airline_analysis.sql
+│
+└── README.md
+
+
 The original and cleaned datasets are not currently redistributed in this repository pending confirmation of the source dataset's licensing and redistribution terms.
