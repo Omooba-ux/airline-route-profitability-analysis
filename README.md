@@ -244,6 +244,26 @@ The short-haul analysis demonstrated that relatively high passenger utilization 
 
 Route performance decisions should therefore combine operational KPIs such as load factor with revenue, cost, margin, and loss-rate measures.
 
+## Power BI Dashboard
 
+The final Power BI dashboard was designed across three pages to provide both executive-level monitoring and deeper analysis of route profitability and operational performance.
+
+### Overview
+
+The Overview page presents the airline's headline financial and operational KPIs, including total revenue, total cost, total profit, overall profit margin, average load factor, and loss rate.
+
+![Power BI Overview Dashboard](dashboard/Overview.png)
+
+### Route Profitability
+
+The Route Profitability page provides deeper route-level analysis, including top and bottom performing routes, profit margins, load factor, and detailed route performance.
+
+![Route Profitability Dashboard](dashboard/route_profitability.png)
+
+### Operations & Costs
+
+The Operations & Costs page examines operating cost structure, aircraft profitability, aircraft loss rates, seasonal performance, and operating cost as a percentage of revenue.
+
+![Operations and Costs Dashboard](dashboard/Operations_costs.png)
 
 
