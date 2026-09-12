@@ -266,4 +266,20 @@ The Operations & Costs page examines operating cost structure, aircraft profitab
 
 ![Operations and Costs Dashboard](dashboard/Operations_costs.png)
 
+## Limitations & Disclosure
 
+This project was developed as a portfolio analysis using the information available in the dataset. The findings should therefore be interpreted within the following limitations:
+
+- The dataset contained 7,974 records and 33 original fields. Any differences between these figures and the original dataset description reflect the structure of the file actually analyzed.
+
+- The original dataset contained 792 missing values across Ancillary Revenue, Catering Cost, and Handling Cost. These values were reconstructed only where the underlying revenue and cost relationships provided a basis for doing so.
+
+- Load factor was independently recalculated as Passengers ÷ Aircraft Capacity. Small differences were observed between the recalculated and recorded values, consistent with rounding in the source data. A tolerance of 0.006 was used during final validation.
+
+- Profitability findings describe relationships observed within this dataset. They should not be interpreted as evidence that a particular operational factor directly caused profitability or losses.
+
+- The analysis does not include additional commercial or operational context that may influence real airline decisions, such as competitive conditions, airport slot constraints, network connectivity, regulatory requirements, or strategic route importance.
+
+- Business recommendations should therefore be treated as areas for further investigation rather than automatic operational decisions.
+
+The original and cleaned datasets are not currently redistributed in this repository pending confirmation of the source dataset's licensing and redistribution terms.
