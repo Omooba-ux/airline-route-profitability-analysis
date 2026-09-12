@@ -282,6 +282,8 @@ This project was developed as a portfolio analysis using the information availab
 
 - Business recommendations should therefore be treated as areas for further investigation rather than automatic operational decisions.
 
+The original and cleaned datasets are not currently redistributed in this repository pending confirmation of the source dataset's licensing and redistribution terms.
+
 ## Repository Structure
 
 ```text
@@ -301,6 +303,11 @@ airline-route-profitability-analysis/
 │   └── airline_analysis.sql
 │
 └── README.md
+```
 
+- **dashboard/** — Power BI dashboard screenshots
+- **data/** — Dataset documentation and data availability information
+- **sql/** — MySQL queries used for the business analysis
+- **README.md** — Complete project documentation, findings, and recommendations
 
 The original and cleaned datasets are not currently redistributed in this repository pending confirmation of the source dataset's licensing and redistribution terms.
